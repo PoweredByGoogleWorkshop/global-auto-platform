@@ -1,0 +1,18 @@
+[
+  {
+    "id": "wa-gsheets-01",
+    "title": "WhatsApp to Google Sheets",
+    "region": "Global",
+    "trigger": "New WhatsApp Message",
+    "action": "Append Row in Spreadsheet",
+    "languages": ["en", "es", "hi"]
+  },
+  {
+    "id": "tg-shopify-02",
+    "title": "Telegram Sales Alerts",
+    "region": "Europe/CIS",
+    "trigger": "New Shopify Order",
+    "action": "Send Telegram Message",
+    "languages": ["en", "ru", "de"]
+  }
+]
